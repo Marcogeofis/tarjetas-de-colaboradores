@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className="contenedor-principal"> 
-        <h1>Esto es lo que dicen nuestros estudiantes de nosotros</h1>
+        <h1>Esto es lo que dicen nuestros Colaboradores de nosotros</h1>
         <Testimonio 
           nombre='Sara Melas'
           pais='Colombia'
